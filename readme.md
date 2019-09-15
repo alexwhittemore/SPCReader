@@ -18,7 +18,7 @@ Only one reading will be typed per button press.
 
 ## Hardware Definition
 
-A standard Mitutoyo SPC cable with keyed female 2x5 0.1" female pin header pluggs into the following Male pins
+A standard Mitutoyo SPC cable with keyed female 2x5 0.1" female pin header pluggs into the following Male pins. This is the exact cable I use personally: [amazon](https://www.amazon.com/gp/product/B00027957U/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 Male 2x5 pin header, looking top down.
 |   |   |KEY|   |   |
