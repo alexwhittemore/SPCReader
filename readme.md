@@ -21,6 +21,7 @@ Only one reading will be typed per button press.
 A standard Mitutoyo SPC cable with keyed female 2x5 0.1" female pin header pluggs into the following Male pins. This is the exact cable I use personally: [amazon](https://www.amazon.com/gp/product/B00027957U/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 Male 2x5 pin header, looking top down.
+
 |   |   |KEY|   |   |
 |-------|-------|---------|--------|----------|
 | 1: NC | 3: NC | 5: /REQ | 7: CLK | 9: GND   |
@@ -36,3 +37,7 @@ The signals above are connected as follows:
 | DATA      | 4         |
 | GND       | Gnd       |
 
+## Acknowledgements
+
+Thanks for the fantastic work from Arduino and Adafruit that this is built on.
+SPC readout code borrowed liberally from sspence's guide at https://www.instructables.com/id/Interfacing-a-Digital-Micrometer-to-a-Microcontrol/
